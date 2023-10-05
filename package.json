@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "voby-demo-store-counter",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "voby": "0.56.3",
+    "voby-vite": "^1.2.3"
+  },
+  "keywords": [],
+  "description": ""
+}
